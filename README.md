@@ -11,11 +11,11 @@ advantage of our approach is that the algorithm requires no hyperparameter tunin
 
 # Code
 The code is written in Python 3.5 and requires the following packages
-sklearn
-scipy
-seaborn
-matplotlib 
-numpy 
+sklearn,
+scipy,
+seaborn,
+matplotlib, 
+numpy and 
 pandas
 
 All packages except seaborn can be found in Anaconda pyhton installation.
