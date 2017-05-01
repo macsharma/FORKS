@@ -18,7 +18,7 @@ matplotlib,
 numpy and 
 pandas
 
-All packages except seaborn can be found in Anaconda pyhton installation.
+All packages except seaborn can be found in Anaconda python installation.
 
 # Examples
 Here we present the algorithm and three of datasets namely, 
