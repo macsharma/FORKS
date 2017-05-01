@@ -8,3 +8,19 @@ trajectories. FORKS, which is a generic method, can be applied to both single-ce
 the user to specify the starting point of the time course. We systematically benchmarked FORKS and 6 other pseudo-time estimation algorithms on 5 benchmark datasets, and
 found it to be more accurate, more reproducible, faster and more memory-efficient than existing methods for pseudo-temporal ordering. Another major
 advantage of our approach is that the algorithm requires no hyperparameter tuning.
+
+# Code
+The code is written in Python 3.5 and requires the following packages
+sklearn
+scipy
+seaborn
+matplotlib 
+numpy 
+pandas
+
+All packages except seaborn can be found in Anaconda pyhton installation.
+
+# Examples
+Here we present the algorithm and three of datasets namely, 
+arabidopsis, deng_2014 and guo_2010 for users to test their code on.
+
