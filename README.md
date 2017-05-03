@@ -29,7 +29,8 @@ for users to test their code on.
 
 ## Citation
 If you use the code please cite the following paper using the bibtex entry:
-'''
+
+```
 @article {Sharma132811,
 	author = {Sharma, Mayank and Li, Huipeng and Sengupta, Debarka and Prabhakar, Shyam and Jayadeva, Jayadeva},
 	title = {FORKS: Finding Orderings Robustly using K-means and Steiner trees},
@@ -40,7 +41,8 @@ If you use the code please cite the following paper using the bibtex entry:
 	eprint = {http://biorxiv.org/content/early/2017/05/02/132811.full.pdf},
 	journal = {bioRxiv}
 }
-'''
+```
+
 ## Research Paper
 The paper for the same is available at:
 
