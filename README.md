@@ -24,3 +24,18 @@ All packages except seaborn can be found in Anaconda python installation.
 Here we present the algorithm and three of datasets namely, 
 arabidopsis, deng_2014 and guo_2010 for users to test their code on.
 
+# Citation
+If you use the code please cite the following paper using the bibtex entry:
+@article {Sharma132811,
+	author = {Sharma, Mayank and Li, Huipeng and Sengupta, Debarka and Prabhakar, Shyam and Jayadeva, Jayadeva},
+	title = {FORKS: Finding Orderings Robustly using K-means and Steiner trees},
+	year = {2017},
+	doi = {10.1101/132811},
+	publisher = {Cold Spring Harbor Labs Journals},
+	URL = {http://biorxiv.org/content/early/2017/05/02/132811},
+	eprint = {http://biorxiv.org/content/early/2017/05/02/132811.full.pdf},
+	journal = {bioRxiv}
+}
+# Research Paper
+The paper for the same is available at:
+http://biorxiv.org/content/early/2017/05/02/132811
