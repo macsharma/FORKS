@@ -9,23 +9,27 @@ the user to specify the starting point of the time course. We systematically ben
 found it to be more accurate, more reproducible, faster and more memory-efficient than existing methods for pseudo-temporal ordering. Another major
 advantage of our approach is that the algorithm requires no hyperparameter tuning.
 
-# Code
+## Code
 The code is written in Python 3.5 and requires the following packages
-sklearn,
-scipy,
-seaborn,
-matplotlib, 
-numpy and 
-pandas
+* sklearn,
+* scipy,
+* seaborn,
+* matplotlib, 
+* numpy 
+* pandas
 
 All packages except seaborn can be found in Anaconda python installation.
 
-# Examples
+## Examples
 Here we present the algorithm and three of datasets namely, 
-arabidopsis, deng_2014 and guo_2010 for users to test their code on.
+* arabidopsis
+* deng_2014  
+* guo_2010 
+for users to test their code on.
 
-# Citation
+## Citation
 If you use the code please cite the following paper using the bibtex entry:
+'''
 @article {Sharma132811,
 	author = {Sharma, Mayank and Li, Huipeng and Sengupta, Debarka and Prabhakar, Shyam and Jayadeva, Jayadeva},
 	title = {FORKS: Finding Orderings Robustly using K-means and Steiner trees},
@@ -36,6 +40,8 @@ If you use the code please cite the following paper using the bibtex entry:
 	eprint = {http://biorxiv.org/content/early/2017/05/02/132811.full.pdf},
 	journal = {bioRxiv}
 }
-# Research Paper
+'''
+## Research Paper
 The paper for the same is available at:
+
 http://biorxiv.org/content/early/2017/05/02/132811
